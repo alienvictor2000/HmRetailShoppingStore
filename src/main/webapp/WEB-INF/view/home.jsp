@@ -67,7 +67,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <a class="btn btn-light" href="<c:url value="/product/productList?searchCondition=Men"/>">
-                    <img src="<c:url value="/resources/img/men.jpg"/>" class="img-circle" alt="Men" width="140" height="140">
+                    <img src="<c:url value="/resources/img/men1.jpg"/>" class="img-circle" alt="Men" width="140" height="140">
                 </a>
                 <h2>Men</h2>
                 <p>Men fashion</p>
