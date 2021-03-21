@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SPRING-5.2.5.RELEASE">
+    <CLASSES>
+      <root url="file://D:/Installation/Java/spring-5.2.5.RELEASE-dist/spring-framework-5.2.5.RELEASE/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/Installation/Java/spring-5.2.5.RELEASE-dist/spring-framework-5.2.5.RELEASE/libs" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Installation/Java/spring-5.2.5.RELEASE-dist/spring-framework-5.2.5.RELEASE/libs" recursive="false" />
+    <jarDirectory url="file://D:/Installation/Java/spring-5.2.5.RELEASE-dist/spring-framework-5.2.5.RELEASE/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
